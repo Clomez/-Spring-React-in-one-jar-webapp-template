@@ -1,2 +1,5 @@
-# -Spring-React-in-one-jar-webapp-template
-spring boot and react webapp, with jquery and bootstrap. Contains part of my website.
+##Spring + React in one jar webapp template
+
+### Simple template
+for quickly setting up React site with Spring boot back.<br>
+self contained in one .jar
